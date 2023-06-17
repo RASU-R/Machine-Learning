@@ -1,0 +1,8 @@
+Python - Machine Learning
+Movie commendation system based on face reaction...
+
+packages:
+open-cv
+numpy
+tensorflow
+keras
